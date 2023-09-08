@@ -28,23 +28,25 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/your-username/student-management-system.git
     ```
+   
+### Usage
+- Visit http://localhost:8080/students to view the list of all students.
+- Use the "Add Student" button to add new students.
+- Click the "Update" button to edit student records.
+- Click the "Delete" button to remove a student.
+- Use the search bar to search for students based on roll number, name, or email.
 
-Usage
-Visit http://localhost:8080/students to view the list of all students.
-Use the "Add Student" button to add new students.
-Click the "Update" button to edit student records.
-Click the "Delete" button to remove a student.
-Use the search bar to search for students based on roll number, name, or email.
-Contributing
+### Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Fork the project.
-Create a new branch 
-Make your changes and commit them 
-Push to the branch 
-Create a new Pull Request.
-License
+- Fork the project.
+- Create a new branch 
+- Make your changes and commit them 
+- Push to the branch 
+- Create a new Pull Request.
+
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-If you have any questions or suggestions, please feel free to contact us:
+If you have any questions or suggestions, please feel free to contact me
